@@ -186,11 +186,6 @@ how to implement it.
 Requirements:
 - PHP 4.3.0 or later, compiled with OpenSSL support.
 
-  NOTE: There was a bug in Windows PHP with using fsockopen() in 
-        SSL mode. A patch is offered at:
-        http://ftp.proventum.net/pub/php/win32/misc/openssl/
-        (use at your own risk)
-
 Installation:
 1. In the phpshop.cfg file you need to set 4 variables:
    AN_ENABLE, AN_LOGIN, AN_TRAN_KEY, AN_TYPE, AN_TEST_REQUEST
