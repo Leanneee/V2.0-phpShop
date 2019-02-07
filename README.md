@@ -5,6 +5,63 @@ For additional instructions see the WEB-INF/docs/ directory.
 
 Visit http://www.shikto.me for additional assistance.
 
+************
+INTRO
+************
+These are release and configuration notes for PHPShop.  We hope to clearly 
+identify the state of the distribution and inform you of any 
+installation, configuration and programming changes to the software.  
+
+
+******
+NOTICE
+******
+If you enjoy this program and would like to help, please start by reporting any
+bugs to us.  This would help us tremendously.  You can report bugs at
+
+http://forums.shikto.cme/
+under "phpShop Bugs". Please make sure you specify the version number, 
+operating system and PHP version in use.
+
+
+************
+FEATURES
+************
+This version of phpShop supports one store in your phpShop environment.
+
+The features available are:
+1.  Site Adminsitration
+    a.  Users
+    b.  Modules
+    c.  Functions
+2.  Vendor Administration
+    a.  Vendors
+    b.  Vendor Categories
+3.  Store Administration
+    a.  Store Profile
+    b.  Store Users
+    c.  Payment Methods
+    d.  Cybercash Administration
+4.  Product Administration
+    a.  Products
+    b.  Attributes
+    c.  Items
+    d.  Prices
+5.  Order Administration
+    a.  Orders
+    b.  Order Status
+6.  Shoppers
+    a.  Shoppers
+    b.  Shopper Groups
+7.  Tax Administration
+    a.  Tax by State
+8.  Shipping
+    a.  Shipping Capabilities via Zone Definitions
+
+Still have no support for multiple vendors.
+
+This version of phpShop is distributed user the GNU GPL License.
+
 !!!phpShop ToDo List!!!
 
 * Need to add VAT tax capabilities
